@@ -1,0 +1,11 @@
+B => A 
+D + E => B 
+C + X => R + Z
+H => L
+L + M => K 
+
+?ARMKZ
+
+=MCXE
+=DEH
+=HMX

@@ -1,0 +1,7 @@
+A | !B => C 
+!C + D => E
+F + !G => H
+
+?BCDEH
+
+=BFD

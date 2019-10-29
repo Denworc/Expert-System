@@ -1,0 +1,9 @@
+B => A 
+D | E => B 
+C | X => R
+H => L
+L | M => K 
+
+?ARMK
+
+=DH
